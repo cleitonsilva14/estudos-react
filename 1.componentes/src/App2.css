@@ -1,0 +1,16 @@
+
+.caju {
+  color: #f8c417;
+}
+
+.class-component {
+    color: rgb(20, 165, 165);
+}
+
+.props2 {
+  background-color: orange;
+}
+
+.props2 p:hover {
+  background-color: #f8c417;
+}
